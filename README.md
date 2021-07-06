@@ -15,3 +15,5 @@
 ![Finca Buena Vista](https://github.com/kenneth260298/Finca_Buena_Vista_Frontend/blob/master/Screenshots/Foto4.JPG)
 
 ![Finca Buena Vista](https://github.com/kenneth260298/Finca_Buena_Vista_Frontend/blob/master/Screenshots/Foto5.JPG)
+
+![Finca Buena Vista](https://github.com/kenneth260298/Finca_Buena_Vista_Frontend/blob/master/Screenshots/Foto6.JPG)
